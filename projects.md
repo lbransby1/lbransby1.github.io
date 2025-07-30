@@ -1,6 +1,6 @@
----
-title: Tabular Machine Learning Prediction on UFC fights
----
+
+## Tabular Machine Learning Prediction on UFC fights
+
 
 
 A machine learning pipeline that predicts the outcome of UFC fights based on historical data, performance metrics, and round-based statistics.
