@@ -1,8 +1,8 @@
 ---
-title: about
+title: About
 ---
 
-## About Me
+### About Me
 
 I'm a final-year Computer Science and Math student with a passion for data science, machine learning, and martial arts.
 
