@@ -1,12 +1,12 @@
 ---
-title: About
+title: About Me
 ---
 
-I'm a final-year Computer Science and Math student with a passion for data science, machine learning, and martial arts.
+I graduated with a BSc (Hons) in Mathematics and Computer Science, and I’m now studying Data Science and Machine Learning at UCL.
 
-Currently working on:
-- A UFC fight outcome predictor using ensemble models
-- An ELO ranking system for MMA fighters
-- Performance analysis with round-by-round fight stats
+For my final year project, I built a machine learning model to predict Mixed Martial Arts fight outcomes, teaching myself ML from scratch in the process. [Read more about it here](./blog/dissertation.md)
 
-I also practice Brazilian Jiu-Jitsu and enjoy exploring AI research.
+I quickly became fascinated by the power of machine learning to tackle complex, unpredictable problems. MMA is a chaotic sport with many variables, and my goal is to bring insight and structure to that chaos using AI.
+
+This experience sparked a genuine passion for applied machine learning, which I now aim to pursue professionally.
+
