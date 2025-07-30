@@ -2,8 +2,8 @@
 title:
 ---
 
-Welcome! I'm a data science & machine learning student currently working on a UFC fight prediction project.
+Welcome! I'm Luke, an MSc student in data science & machine learning at UCL
 
-- 🔍 Check out my [UFC project](./projects.md)
+- 🔍 Check out my [Latest projects](./projects.md)
 - 🧠 Read my latest [blog posts](./blog/)
 - 💼 Learn more [about me](./about.md)

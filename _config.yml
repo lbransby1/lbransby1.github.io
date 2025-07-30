@@ -1,6 +1,7 @@
 title: Luke Bransby
 theme: minima
 markdown: kramdown
+toc: false
 
 navigation:
   - title: "Home"
