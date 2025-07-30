@@ -1,12 +1,12 @@
-title: Luke Bransby
-theme: minima
-markdown: kramdown
-toc: false
+# Build settings
 
-navigation:
-  - title: "Home"
-    url: /
-  - title: "Projects"
-    url: /projects
-  - title: "About"
-    url: /about
+port: 4000
+markdown:  kramdown
+permalink: /:title
+plugins:   [jekyll-sitemap, jekyll-feed,  jekyll-seo-tag]
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+
+title:		   "Portfolio Jekyll Theme"
+description: "Powered by Jekyll and GitHub Pages"
+author:      "Paul Le"
