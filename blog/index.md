@@ -1,9 +1,8 @@
 ---
-title: Blog
+title: My Blog
 ---
 
-## Blog
 
-Welcome to my blog posts. Here’s one I wrote about my UFC fight prediction project:
+Welcome to my blog posts. Here a quick post about my final year project:
 
-- [Dissertation: ML Pipeline for UFC Fights](./dissertation.md)
+- [Final Year Project: Machine Learning to Predict UFC fights](./dissertation.md)
