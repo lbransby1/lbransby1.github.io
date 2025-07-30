@@ -1,3 +1,11 @@
 title: Luke Bransby
 theme: minima
 markdown: kramdown
+
+navigation:
+  - title: "Home"
+    url: /
+  - title: "Projects"
+    url: /projects
+  - title: "About"
+    url: /about
