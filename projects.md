@@ -1,4 +1,4 @@
-# Projects
+
 
 ## 🥋 UFC Fight Predictor
 
