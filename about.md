@@ -2,8 +2,6 @@
 title: About
 ---
 
-### About Me
-
 I'm a final-year Computer Science and Math student with a passion for data science, machine learning, and martial arts.
 
 Currently working on:
