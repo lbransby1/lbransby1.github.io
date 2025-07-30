@@ -8,10 +8,10 @@ A machine learning pipeline that predicts the outcome of UFC fights based on his
 
 [View GitHub repo](https://github.com/your-username/ufc-fight-predictor)
 
-Blog post: [How I built it →](./blog/ufc-model.md)
+Blog post: [How I built it →](./blog/dissertation.md)
 
 ---
 
-## 📈 Other Projects
+## Other Projects
 
 - (placeholder for other projects)
