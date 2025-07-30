@@ -1,8 +1,6 @@
 ---
 title:
 ---
-## Luke Bransby
-
 
 Welcome! I'm a data science & machine learning student currently working on a UFC fight prediction project.
 
