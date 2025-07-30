@@ -1,18 +1,7 @@
 ---
-title: Final Year Project
+title: Developer Journal
 ---
-## test
 
 
-In this post, I break down the machine learning pipeline I built to predict UFC fight outcomes...
-
-## 🧪 Model Stack
-- Random Forest
-- XGBoost
-- LightGBM
-- CatBoost
-- HistGradientBoostingClassifier
-
-...
-
-Full code available [here](https://github.com/your-username/ufc-fight-predictor)
+## 30.7.25
+I built this website :D
